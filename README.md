@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Vagner 👋
 
-<!--
-**Vhianpdev/Vhianpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Web em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+- HTML
+- CSS
+- JavaScript
+- Git/GitHub
+
+🎯 Objetivo:
+Desenvolver projetos reais, evoluir minhas habilidades e criar soluções através da tecnologia.
+
+---
+
+## Tecnologias
+
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</div>
